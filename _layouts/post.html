@@ -1,0 +1,69 @@
+<style>
+    body {
+
+        margin: 0;
+        background:rgb(0, 0, 0);
+        display:flex; 
+        flex-direction:column; 
+        align-items: center;
+        
+    }
+    header {
+        
+        height: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 17px 28px 5px -13px rgba(161,118,118,0.75); 
+        margin-bottom: 18px;   
+        
+        }     
+
+    header .link {
+        margin-right: 150px;
+        margin-left: 170px;
+    }
+
+    header a {
+        margin-right: 220px;
+        text-decoration-line: underline;
+        padding: 2px;
+        text-decoration-color: rgb(112, 52, 12);
+        
+        
+
+    }
+
+    header a:link   {
+        color:rgb(48, 99, 196);
+
+    }
+
+    header a:visited   {
+        color:rgb(40, 85, 168);
+
+    }
+
+    header a:hover {
+        color: rgb(238, 84, 13);
+
+    }
+</style>
+
+<header>
+    <a class="link" href="/">home</a>
+    <a href="/about/">about</a>
+    <a href="/posts/">posts</a>
+    <a href="/resistantbees/">ResistantBees</a>
+
+
+</header>
+<body>
+    <div style="background:rgb(0, 0, 0); color: rgb(233, 221, 221); padding: 25px;"> 
+        <h2> This is a post</h2>
+        <hr>
+       {{ content }}
+    </div>
+    
+    </body>
+    {% include footer.html %}

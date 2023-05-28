@@ -1,0 +1,54 @@
+---
+layout: page
+title: posts
+permalink: /posts/
+---
+
+
+
+<style>
+    body {
+      
+      background-color: black;
+      text-align: center;
+      color: white;
+      
+      }
+    div .a {
+      text-align: justify;
+      color: white;
+    
+    }
+
+    div a:link   {
+        color:rgb(48, 99, 196);
+
+    }
+
+    div a:visited   {
+        color:rgb(40, 85, 168);
+
+    }
+
+    div a:hover {
+        color: rgb(238, 84, 13);
+
+    }
+    
+    </style>
+    
+        
+    <body> 
+    <html> 
+      <p>posts<br> about resistant bees<br> </p>
+   
+    {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{post.title}}</a></li>
+    {% endfor %}
+
+    {% include footer.html %}
+    
+    
+    </html>
+    </body>
+    

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/bees/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/bees/" rel="alternate" type="text/html" /><updated>2023-05-28T19:53:53+00:00</updated><id>http://0.0.0.0:4000/bees/feed.xml</id><title type="html">ResistantBees</title><subtitle>Varroa resistant small cell bees</subtitle><entry><title type="html">other step</title><link href="http://0.0.0.0:4000/bees/demo/2023/05/20/test-two.html" rel="alternate" type="text/html" title="other step" /><published>2023-05-20T00:00:00+00:00</published><updated>2023-05-20T00:00:00+00:00</updated><id>http://0.0.0.0:4000/bees/demo/2023/05/20/test-two</id><content type="html" xml:base="http://0.0.0.0:4000/bees/demo/2023/05/20/test-two.html"><![CDATA[<p>This is a paragraph in my second post.
+In Markdown, adding an image looks similar to a link.</p>
+
+<p><img src="http://www.resistantbees.com/fotos/amberbee.jpg" alt="alt text is amber bee" /></p>
+
+<p>Horizontal rule:</p>
+
+<hr />
+
+<blockquote>
+  <p>A block quote.
+Is like this.</p>
+</blockquote>
+
+<p>A table:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>header</th>
+      <th>column a</th>
+      <th>column b</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>dogs</td>
+      <td>3</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>cats</td>
+      <td>3</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>muffins</td>
+      <td>15</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="demo" /><category term="third" /><category term="markdown" /><category term="example" /><summary type="html"><![CDATA[This is a paragraph in my second post. In Markdown, adding an image looks similar to a link.]]></summary></entry><entry><title type="html">Next Steps</title><link href="http://0.0.0.0:4000/bees/demo/2023/05/19/test-one.html" rel="alternate" type="text/html" title="Next Steps" /><published>2023-05-19T00:00:00+00:00</published><updated>2023-05-19T00:00:00+00:00</updated><id>http://0.0.0.0:4000/bees/demo/2023/05/19/test-one</id><content type="html" xml:base="http://0.0.0.0:4000/bees/demo/2023/05/19/test-one.html"><![CDATA[<p>This is a paragraph in my second post.
+In Markdown, adding an image looks similar to a link.</p>
+
+<p><img src="http://www.resistantbees.com/fotos/amberbee.jpg" alt="alt text is white cat" /></p>
+
+<p>Horizontal rule:</p>
+
+<hr />
+
+<blockquote>
+  <p>A block quote.
+Is like this.</p>
+</blockquote>
+
+<p>A table:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>header</th>
+      <th>column a</th>
+      <th>column b</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>dogs</td>
+      <td>3</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>cats</td>
+      <td>3</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>muffins</td>
+      <td>15</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="demo" /><category term="second" /><category term="markdown" /><category term="example" /><summary type="html"><![CDATA[This is a paragraph in my second post. In Markdown, adding an image looks similar to a link.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://0.0.0.0:4000/bees/jekyll/update/2020/07/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-07-21T01:08:51+00:00</published><updated>2020-07-21T01:08:51+00:00</updated><id>http://0.0.0.0:4000/bees/jekyll/update/2020/07/21/welcome-to-jekyll</id><content type="html" xml:base="http://0.0.0.0:4000/bees/jekyll/update/2020/07/21/welcome-to-jekyll.html"><![CDATA[<style>
+
+
+.container {
+    width: 560px;
+    height: 315px;
+    box-shadow: 0px 5px 13px 2px #F3410B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px;
+  padding: 10px;
+}
+
+  </style>
+
+<div class="center">
+
+<div class="container">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/L2I5yGzhgnI" frameborder="0" allowfullscreen=""></iframe> 
+
+</div>
+ </div>
+
+<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry></feed>

@@ -1,7 +1,0 @@
-I"?<p>Welcome to my Jekyll Blog. I’m exploring how Jekyll handles links:</p>
-<ul>
-  <li><a href="https://resistantbees.github.io/bees/about/">An absolute link</a></li>
-  <li><a href="./2023/05/31/test-three">A root relative link</a></li>
-  <li><a href="/2023/05/31/test-three.html">A Jekyll post_url link</a></li>
-</ul>
-:ET

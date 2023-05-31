@@ -63,7 +63,7 @@ beediv {
     
 <body> 
 <html> 
-aaa
+aaas der
 <div class="row">
   <div class="column">
     <img src="./img/logo.png" style="width:40%">

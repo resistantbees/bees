@@ -1,5 +1,4 @@
-I"é<p>a</p>
-<style>
+I"<style>
 body {
   
   background-color: black;
@@ -57,7 +56,7 @@ beediv {
 
 <body> 
 <html> 
-
+aaas der
 <div class="row">
   <div class="column">
     <img src="./img/logo.png" style="width:40%" />
@@ -92,6 +91,8 @@ beediv {
 <li><a href="/about/">About</a></li>
 
 <li><a href="/">ResistantBees</a></li>
+
+<li><a href="/posts/">posts</a></li>
 
 <li><a href="/resistantbees/">ResistantBees</a></li>
 

@@ -63,7 +63,7 @@ beediv {
     
 <body> 
 <html> 
-aaas 17 nn aaa
+aaas 17 nn aaa m
 <div class="row">
   <div class="column">
     <img src="./img/logo.png" style="width:40%">
@@ -94,5 +94,6 @@ aaas 17 nn aaa
  </div>
 </html>
 </body>
+{% include footer.html %}
 
 

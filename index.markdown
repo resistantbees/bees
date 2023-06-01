@@ -63,7 +63,7 @@ beediv {
     
 <body> 
 <html> 
-aaas 17 nn
+aaas 17 nn aaa
 <div class="row">
   <div class="column">
     <img src="./img/logo.png" style="width:40%">
@@ -87,7 +87,7 @@ aaas 17 nn
 {% endfor %}
 
 {% for post in site.pages %}
-<li><a href="{{ post.url }}">{{post.title}}</a></li>
+<li><a href="./{{ post.url }}">{{post.title}}</a></li>
 {% endfor %}
 
 

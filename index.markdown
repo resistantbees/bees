@@ -5,6 +5,7 @@ permalink: /
 
 ---
 
+{% include header.html %}
 
 
 <style>
@@ -66,7 +67,7 @@ beediv {
     
 <body> 
 <html> 
-aaas ooooo 177 nnb mmm
+aaas ooooo 177 nnb mmm  mmm
 <div class="row">
   <div class="column">
     <img src="./img/logo.png" style="width:40%">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ResistantBees
-permalink: /
+permalink: ./
 
 ---
 <style>
@@ -63,16 +63,16 @@ beediv {
     
 <body> 
 <html> 
-aaas 17
+aaas 17 nn
 <div class="row">
   <div class="column">
-    <img src="/img/logo.png" style="width:40%">
+    <img src="./img/logo.png" style="width:40%">
   </div>
   <div class="beediv">
-    <img src="/img/bees.png" style="width:70%">
+    <img src="./img/bees.png" style="width:70%">
   </div>
   <div class="column">
-    <img src="/img/apicultor.png" style="width:40%">
+    <img src="./img/apicultor.png" style="width:40%">
   </div>
 </div>
 
@@ -83,7 +83,7 @@ aaas 17
 <p>our experience with Varroa resistant bees over 15 years </p>
 
 {% for post in site.posts %}
-<li><a href="{{ post.url }}">{{post.title}}</a></li>
+<li><a href="./{{ post.url }}">{{post.title}}</a></li>
 {% endfor %}
 
 {% for post in site.pages %}

@@ -63,16 +63,16 @@ beediv {
     
 <body> 
 <html> 
-aaas der ab c bb
+aaas 17
 <div class="row">
   <div class="column">
-    <img src="./img/logo.png" style="width:40%">
+    <img src="/img/logo.png" style="width:40%">
   </div>
   <div class="beediv">
-    <img src="./img/bees.png" style="width:70%">
+    <img src="/img/bees.png" style="width:70%">
   </div>
   <div class="column">
-    <img src="./img/apicultor.png" style="width:40%">
+    <img src="/img/apicultor.png" style="width:40%">
   </div>
 </div>
 
@@ -83,11 +83,11 @@ aaas der ab c bb
 <p>our experience with Varroa resistant bees over 15 years </p>
 
 {% for post in site.posts %}
-<li><a href="./{{ post.url }}">{{post.title}}</a></li>
+<li><a href="{{ post.url }}">{{post.title}}</a></li>
 {% endfor %}
 
 {% for post in site.pages %}
-<li><a href="./{{ post.url }}">{{post.title}}</a></li>
+<li><a href="{{ post.url }}">{{post.title}}</a></li>
 {% endfor %}
 
 

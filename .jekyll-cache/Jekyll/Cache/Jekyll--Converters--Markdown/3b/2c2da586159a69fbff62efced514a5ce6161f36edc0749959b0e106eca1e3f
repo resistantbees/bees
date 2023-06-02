@@ -1,13 +1,4 @@
----
-layout: page
-title: ResistantBees
-permalink: /
-
----
-
-
-
-<style>
+I"N<style>
 
 body {
    
@@ -85,18 +76,17 @@ beediv {
 
 </style>
 
-    
 <body> 
 <html> 
 <div class="row">
   <div class="column">
-    <img src="./img/logo.png" style="width:40%">
+    <img src="./img/logo.png" style="width:40%" />
   </div>
   <div class="beediv">
-    <img src="./img/bees.png" style="width:70%">
+    <img src="./img/bees.png" style="width:70%" />
   </div>
   <div class="column">
-    <img src="./img/apicultor.png" style="width:40%">
+    <img src="./img/apicultor.png" style="width:40%" />
   </div>
   
 </div>
@@ -109,18 +99,39 @@ pages
 
 and posts
 
-{% for post in site.posts %}
-<li><a href="./{{ post.url }}">{{post.title}}</a></li>
-{% endfor %}
 
-{% for post in site.pages %}
-<li><a href="./{{ post.url }}">{{post.title}}</a></li>
-{% endfor %}
+<li><a href=".//bees_a/2023/06/02/test-four.html">Test Four a</a></li>
+
+<li><a href=".//bees_a/2023/06/02/test-five.html">Test Four a</a></li>
+
+<li><a href=".//jekyll/update/2023/05/31/test-three.html">Test Three</a></li>
+
+<li><a href=".//demo/2023/05/20/test-two.html">other step</a></li>
+
+<li><a href=".//demo/2023/05/19/test-one.html">Next Steps</a></li>
+
+<li><a href=".//jekyll/update/2020/07/21/welcome-to-jekyll.html">Welcome to Jekyll!</a></li>
+
+
+
+<li><a href=".//404.html"></a></li>
+
+<li><a href=".//about/">About</a></li>
+
+<li><a href=".//">ResistantBees</a></li>
+
+<li><a href=".//posts/">posts</a></li>
+
+<li><a href=".//resistantbees/">ResistantBees</a></li>
+
+<li><a href=".//assets/main.css"></a></li>
+
+<li><a href=".//feed.xml"></a></li>
+
 
 
  </div>
 </html>
 </body>
 
-
-
+:ET

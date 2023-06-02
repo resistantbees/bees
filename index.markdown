@@ -71,7 +71,6 @@ beediv {
     
 <body> 
 <html> 
-a
 <div class="row">
   <div class="column">
     <img src="./img/logo.png" style="width:40%">

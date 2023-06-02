@@ -9,7 +9,7 @@ permalink: /
 
 <style>
 body {
-  
+   
   background-color: black;
   text-align: center;
   color: white;
@@ -18,26 +18,32 @@ body {
 div .a {
   text-align: center;
   color: white;
-
+  
 }
 
 div {
-
+  background-image: url("./img/background2.jpg");
+  background-size: 900px 500px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
   margin-top: 3px;
+  
 }
 
 div a:link   {
-  color:rgb(48, 99, 196);
+  color:rgb(231, 119, 74);
+
 
 }
 
 div a:visited   {
-  color:rgb(40, 85, 168);
+  color:rgb(226, 177, 131);
 
 }
 
-  div a:hover {
-  color: rgb(238, 84, 13);
+div a:hover {
+  color: rgb(165, 55, 4);
 
   }
 
@@ -70,7 +76,6 @@ beediv {
     
 <body> 
 <html> 
-a
 <div class="row">
   <div class="column">
     <img src="./img/logo.png" style="width:40%">
@@ -81,13 +86,16 @@ a
   <div class="column">
     <img src="./img/apicultor.png" style="width:40%">
   </div>
+  
 </div>
-
 <h1 style="color:#FB600D;">Varroa resistant bees</h1>
-
 <div class="a">
 
 <p>our experience with Varroa resistant bees over 15 years </p>
+
+pages
+
+and posts
 
 {% for post in site.posts %}
 <li><a href="./{{ post.url }}">{{post.title}}</a></li>

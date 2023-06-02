@@ -22,6 +22,10 @@ div .a {
 
 }
 
+div {
+
+  margin-top: 18px;
+}
 
 div a:link   {
   color:rgb(48, 99, 196);
@@ -67,7 +71,6 @@ beediv {
     
 <body> 
 <html> 
-aaas ooooo 177 nnb mmm  mmm
 <div class="row">
   <div class="column">
     <img src="./img/logo.png" style="width:40%">

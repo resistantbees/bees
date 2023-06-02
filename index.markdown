@@ -8,6 +8,13 @@ permalink: /
 
 
 <style>
+
+@media (min-width: 480px) {
+   body {
+     background-position: center;
+     background-attachment: fixed;
+   }
+}
 body {
    
   background-color: black;

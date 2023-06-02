@@ -24,7 +24,7 @@ div .a {
 
 div {
 
-  margin-top: 18px;
+  margin-top: 3px;
 }
 
 div a:link   {

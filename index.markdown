@@ -5,7 +5,6 @@ permalink: /
 
 ---
 
-{% include link.html %}
 
 
 <style>

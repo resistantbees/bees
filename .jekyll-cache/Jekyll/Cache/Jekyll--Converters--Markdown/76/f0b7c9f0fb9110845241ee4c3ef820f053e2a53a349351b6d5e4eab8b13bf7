@@ -1,11 +1,5 @@
+I"™
 
-    
-
-
-
-<body>
-    <div style="background:rgb(0, 0, 0); color: rgb(233, 221, 221); padding: 25px;"> 
-        
 <style>
     body {
 
@@ -147,9 +141,9 @@ beediv {
 <p>our experience with Varroa resistant bees over 15 years </p>
 
 
-<li><a href=".//bees_a/2023/06/02/test-four.html">Test Four a</a></li>
+<li><a href=".//bees/2023/06/02/test-four.html">Test Four a</a></li>
 
-<li><a href=".//bees_a/2023/06/02/test-five.html">Test Four a</a></li>
+<li><a href=".//2023/06/02/test-five.html">Test Five</a></li>
 
 <li><a href=".//jekyll/update/2023/05/31/test-three.html">Test Three</a></li>
 
@@ -181,74 +175,4 @@ beediv {
 </html>
 </body>
 
-
-       
-    </div>
-    
-    </body>
-
-    
-<style>
-   
-
-    body {
-     margin: 0;
-    background-color: black;
-    text-align: center;
-    color: white;
-  
-  }
-    footer {
-        padding-top: 17px;        
-        height: 30px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        box-shadow: -2px -20px 7px -19px rgba(161,118,118,0.75);   
-        
-        }     
-
-    footer .link {
-        margin-right: 50px;
-        margin-left: 70px;
-    }
-
-    footer a {
-        margin-right: 50px;
-        text-decoration-line: underline;
-        padding: 2px;
-        text-decoration-color: rgb(112, 52, 12);
-
-    }
-
-
-    footer a:link   {
-        color:rgb(48, 99, 196);
-
-    }
-
-    footer a:visited   {
-        color:rgb(40, 85, 168);
-
-    }
-
-    footer a:hover {
-        color: rgb(238, 84, 13);
-
-    }
-</style>
-
-<a href="https://www.youtube.com/@stephpalma" target="_blank">youtube</a>
-<footer>
-    <a class="link" href="http://english.resistantbees.es/?page_id=38" target="_blank">contact</a>
-    <a href="http://english.resistantbees.es" target="_blank">website</a>
-    <a href="https://twitter.com/bioapi" target="_blank">twitter</a>
-    <a href="https://www.facebook.com/resistantbees/" target="_blank">facebook</a>
-
-</footer>
-
-
-
-
-
-    
+:ET

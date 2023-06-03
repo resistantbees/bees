@@ -26,7 +26,10 @@ div .a {
    
    div::before {
     background-image: url("./img/background2a.jpg");
+    background-size: 220px 138px;
+    background-repeat: no-repeat;
     background-position: center;
+    margin-top: 3px;
      
    }
 }

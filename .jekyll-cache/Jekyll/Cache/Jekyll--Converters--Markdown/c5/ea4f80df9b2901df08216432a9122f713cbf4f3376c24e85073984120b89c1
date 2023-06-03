@@ -1,14 +1,5 @@
-I"o<style>
-@media only screen and (max-width: 480px)
- {
-   div {
-    background-image: url("./img/background2a.jpg");
-    background-size: 400px 280px;
-    background-attachment: fixed;
-    background-position: center;
-     
-   }
-}
+I"O<style>
+
 body {
    
   background-color: black;
@@ -20,6 +11,15 @@ div .a {
   text-align: center;
   color: white;
   
+}
+
+@media only screen and (min-width: 300px) and (max-width: 480px) {
+   
+   div::before {
+    background-image: url("./img/background2a.jpg");
+    background-position: center;
+     
+   }
 }
 
 div {

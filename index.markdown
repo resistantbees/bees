@@ -32,7 +32,9 @@ div {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
-  margin-top: 3px;
+  padding-top: 7px;
+  
+  
   
 }
 

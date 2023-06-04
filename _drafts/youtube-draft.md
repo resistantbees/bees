@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-07-21 01:08:51 +0000
-categories: jekyll update
+title:  "Youtube draft"
 ---
 <style>
 
@@ -10,7 +8,7 @@ categories: jekyll update
 .container {
     width: 560px;
     height: 315px;
-    box-shadow: 0px 5px 13px 2px #F3410B;
+    box-shadow: 0px 5px 13px 2px #0066ff;
     display: flex;
     justify-content: center;
     align-items: center;

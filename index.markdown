@@ -106,7 +106,7 @@ pages
 and posts
 
 {% for post in site.posts %}
-<li><a href="./{{ post.url }}">{{post.title}}</a></li>
+<li><a href="./{{ post.url }}">{{post.title}} {{post.date | date_to_string }}</a></li>
 {% endfor %}
 
 {% for post in site.pages %}
